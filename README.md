@@ -4,11 +4,11 @@ In this data project we will focus on exploratory data analysis of stock prices.
 
 We will use stock information for the following banks from 1st January 2006 to 1st January 2016:
 
-Bank of America
-CitiGroup
-Goldman Sachs
-JPMorgan Chase
-Morgan Stanley
+Bank of America,
+CitiGroup,
+Goldman Sachs,
+JPMorgan Chase,
+Morgan Stanley,
 Wells Fargo
 
 
