@@ -13,4 +13,4 @@ Wells Fargo
 
 
 Note:-
-Some of the visualizations may not be visible on github. To see the full project, download and run the code on your system after installing all the neccessary python libraries.
+Some of the visualizations may not be visible on github. To see the full project, paste https://github.com/Aakash-Sinha/Finance-Data-Project/blob/main/Finance%20Data%20Project.ipynb into https://nbviewer.jupyter.org/ and you will be good to go..
